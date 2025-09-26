@@ -3,18 +3,18 @@
 
 ### 1. Introduction
 ##### This project analyses hotel reviews data stored in a PostgreSQL database with three tables:
-  ######  •	Hotels (hotel details & base ratings)
-  ######  •	Users (user demographics & traveller type)
-  ######  •	Reviews (ratings & review text)
+  #####  •	Hotels (hotel details & base ratings)
+  #####  •	Users (user demographics & traveller type)
+  #####  •	Reviews (ratings & review text)
 ##### The objective was to explore, analyse, and visualize the data to gain business insights, build machine learning models, and create an interactive dashboard.
 ##### Tools used: Excel,SQL,Powerbi,Python.
 
 ### 2. Data Sources
 ##### •	Database: PostgreSQL
 ##### •	Tables:
-###### hotels: hotel details, star rating, base scores (cleanliness, comfort, facilities, etc.), geo-location
-###### users: user demographics, gender, country, traveller type, join date
-###### reviews: user-hotel reviews with text & numerical ratings
+##### hotels: hotel details, star rating, base scores (cleanliness, comfort, facilities, etc.), geo-location
+##### users: user demographics, gender, country, traveller type, join date
+##### reviews: user-hotel reviews with text & numerical ratings
 
 ### 3. Data Preparation
 ##### •	Excel: Performed initial cleaning (removed duplicates, checked missing values).
