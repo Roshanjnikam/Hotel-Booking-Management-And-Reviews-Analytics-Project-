@@ -1,4 +1,4 @@
-# Hotel Reviews Analytics Project 
+# Hotel Booking Management And Reviews Analytics Project 
 ##### by Roshan Nikam
 
 ### 1. Introduction
